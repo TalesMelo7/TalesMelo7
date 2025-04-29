@@ -38,7 +38,7 @@ Sobre mim:
 
 ## 🐍 Minhas contribuições
 
-![snake gif](https://TalesMelo7.github.io/snake-animation/github-contribution-grid-snake.svg)
+![snake gif](https://TalesMelo7.github.io/TalesMelo7/github-contribution-grid-snake.svg)
 
 ---
 
