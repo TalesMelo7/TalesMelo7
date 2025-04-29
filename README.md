@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil 👋
 
 
-Conheça quem sou eu:
+Sobre mim:
 
 - 🔭 Atualmente curso o 3°Semestre em Ciências da Computação na Universidade Nove de Julho (Uninove)
 - 🌱 Atualmente estudo Python e caminhando para a área de Data Science
