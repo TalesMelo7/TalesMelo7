@@ -1,5 +1,5 @@
 # Olá Devs, me chamo Tales!
-## Bem vindo ao meu perfil Github 👋
+## Bem vindo ao meu perfil 👋
 
 
 Conheça quem sou eu:
