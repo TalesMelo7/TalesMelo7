@@ -4,10 +4,10 @@
 
 Conheça quem sou eu:
 
-- 🔭 Atualmente estou estudado na Universidade Nove de Julho (Uninove)
-- 🌱 Atualmente estou aprendendo Python e caminhando para a área de Data Science
-- 👯 Estou procurando colaborar em repositórios públicos para fins de aprendizado
-- ⚡ Curiosidade: Sou viciado em aprender, principalmente se for sobre tecnologia
+- 🔭 Atualmente curso o 3°Semestre em Ciências da Computação na Universidade Nove de Julho (Uninove)
+- 🌱 Atualmente estudo Python e caminhando para a área de Data Science
+- 👯 Estou procurando colaborar em repositórios públicos a fim de aprendizado
+- ⚡ Curiosidade: Sou apaixonado por tecnologia, código limpo e aprendizado constante.
 
 ## Ferramentas e Tecnologias
 
@@ -40,4 +40,6 @@ Conheça quem sou eu:
 
 ![snake gif](https://TalesMelo7.github.io/snake-animation/github-contribution-grid-snake.svg)
 
-          
+---
+
+<p align="center">Obrigado por visitar meu perfil! 🚀</p>
